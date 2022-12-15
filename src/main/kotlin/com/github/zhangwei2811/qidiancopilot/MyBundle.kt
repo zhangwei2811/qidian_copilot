@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.zhangwei2811.qidiancopilot
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
